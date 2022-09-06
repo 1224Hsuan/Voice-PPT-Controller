@@ -18,8 +18,16 @@ A voice controller of ppt slides.
 
   | Keywords | Functions |
   | ---- | ---- |
-  | fullscreen | |
-  | next slide | |
-  | last slide | |
-  | slide {number} | |
-  | exit | |
+  | slide show | fullscreen mode |
+  | next slide | go to next slide |
+  | previous slide | go to last slide |
+  | slide {number} | go to specific slide |
+  | exit | close the voice controller |
+  
+## Compilation and Execution
+<ol>
+<li> Run main.py.</li>
+<li> Choose the file and open it by using the UI.</li>
+<li> Say the keywords.</li>
+<li> Say "exit" to terminate the program.</li>
+</ol>

@@ -27,7 +27,7 @@ A voice controller of ppt slides.
 ## Compilation and Execution
 <ol>
 <li> Run main.py.</li>
-<li> Choose the file and open it by using the UI.</li>
+<li> Using user interface to choose and open the file.</li>
 <li> Say the keywords.</li>
 <li> Say "exit" to terminate the program.</li>
 </ol>

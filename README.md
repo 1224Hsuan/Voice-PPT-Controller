@@ -11,7 +11,7 @@ A voice controller of ppt slides.
 <li> Press "choose" button to choose the file.</li>
 <li> The user interface will show the file path.</li>
 <li> Press "OK" button to open the data.</li>
-<li> The User Interface will be closed after opening the PPT.</li>
+<li> The User Interface will be closed after opening the slide.</li>
 </ol>
 
 * Voice Controller

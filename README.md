@@ -22,7 +22,7 @@ A voice controller of ppt slides.
   | next slide | go to next slide |
   | previous slide | go to previous slide |
   | slide {number} | go to specific slide |
-  | exit | close the voice controller |
+  | exit | terminate the voice controller |
   
 ## Operating Method
 <ol>

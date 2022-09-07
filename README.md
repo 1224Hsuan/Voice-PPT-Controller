@@ -20,11 +20,11 @@ A voice controller of ppt slides.
   | ---- | ---- |
   | slide show | fullscreen mode |
   | next slide | go to next slide |
-  | previous slide | go to last slide |
+  | previous slide | go to previous slide |
   | slide {number} | go to specific slide |
   | exit | close the voice controller |
   
-## Method of Operation
+## Operating Method
 <ol>
 <li> Run main.py.</li>
 <li> Using user interface to choose and open the file.</li>

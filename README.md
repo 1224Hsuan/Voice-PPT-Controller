@@ -24,7 +24,7 @@ A voice controller of ppt slides.
   | slide {number} | go to specific slide |
   | exit | close the voice controller |
   
-## Compilation and Execution
+## Method of Operation
 <ol>
 <li> Run main.py.</li>
 <li> Using user interface to choose and open the file.</li>

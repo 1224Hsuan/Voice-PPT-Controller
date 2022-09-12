@@ -27,7 +27,7 @@ A voice controller of ppt slides.
 ## Operating Method
 <ol>
 <li> Run main.py.</li>
-<li> Using user interface to choose and open the file.</li>
+<li> Use user interface to choose and open the file.</li>
 <li> Say the keywords.</li>
 <li> Say "exit" to terminate the program.</li>
 </ol>
